@@ -7,10 +7,6 @@
 <h3>💻 Ciência da Computação - Unisinos (2 semestre)</h3>
 <h3>⭐ Programa Starter Growdev - Despertar.dev</h3>
 
-
-
-<hr>
-
 <h2>Redes Sociais</h2>
 
 <a href="https://www.instagram.com/gustavo_cortezia/"> <img style="height: 50px; width: 50px;" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" alt="" srcset=""></a> 

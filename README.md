@@ -1,10 +1,8 @@
 <h1>Gustavo Cortezia</h1>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 <h3>🌱 Dev Junior</h3>
 <h3>⚡ 19 anos</h3>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
-
 <h3>🧉 Rio Grande do Sul, Brasil</h3>
 <h3>💻 Ciência da Computação - Unisinos (2 semestre)</h3>
 <h3>⭐ Programa Starter Growdev - Despertar.dev</h3>

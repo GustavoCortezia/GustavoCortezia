@@ -6,7 +6,7 @@
 <h3>💻 Ciência da Computação - Unisinos (2 semestre)</h3>
 <h3>⭐ Programa Starter Growdev - Despertar.dev</h3>
 
-<img src="https://pngset.com/images/rose-gold-folder-icon-mac-novocomtop-pastel-folder-icons-mac-file-binder-file-folder-laptop-pc-transparent-png-2650304.png" alt="" srcset="">
+<img src="https://e1.pngegg.com/pngimages/1019/648/png-clipart-aesthetic-yellow-file-folder-illustration.png" alt="" srcset="">
 
 <hr>
 

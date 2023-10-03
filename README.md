@@ -1,6 +1,6 @@
 <h1>Gustavo Cortezia</h1>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+<p><img align="right" src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-computador-roxo-retra.png" alt="" /></p>
 <h3>🌱 Dev Junior</h3>
 <h3>⚡ 19 anos</h3>
 <h3>🧉 Rio Grande do Sul, Brasil</h3>

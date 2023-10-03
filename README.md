@@ -1,6 +1,6 @@
 <h1>Gustavo Cortezia</h1>
 
-<p><img style="height: 300px; width: 300px;" align="right" src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-computador-roxo-retra.png" alt="" /></p>
+<p><img style="height: 400px; width: 400px;" align="right" src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-computador-roxo-retra.png" alt="" /></p>
 <h3>🌱 Dev Junior</h3>
 <h3>⚡ 19 anos</h3>
 <h3>🧉 Rio Grande do Sul, Brasil</h3>

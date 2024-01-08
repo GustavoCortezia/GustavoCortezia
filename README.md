@@ -4,7 +4,7 @@
 <h3>🌱 Dev Junior</h3>
 <h3>⚡ 19 anos</h3>
 <h3>🧉 Rio Grande do Sul, Brasil</h3>
-<h3>💻 Ciência da Computação - Unisinos (2 semestre)</h3>
+<h3>💻 Ciência da Computação - Unisinos (3 semestre)</h3>
 <h3>⭐ Programa Starter Growdev - Despertar.dev</h3>
 
 <br>

@@ -1,10 +1,10 @@
 <h1>Gustavo Cortezia</h1>
 
 <p><img style="height: 400px; width: 400px;" align="right" src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-computador-roxo-retra.png" alt="" /></p>
-<h3>⚡ 19 anos</h3>
-<h3>🧉 Rio Grande do Sul, Brasil</h3>
-<h3>💻 Ciência da Computação - Unisinos (3 semestre)</h3>
-<h3>⭐ Programa Starter Growdev - Despertar.dev</h3>
+<h3>⚡ 19 years old</h3>
+<h3>🧉 Rio Grande do Sul, Brazil</h3>
+<h3>💻 Computer science - Unisinos (3 semester)</h3>
+<h3>⭐ Starter Growdev Program - Despertar.dev</h3>
 
 <br>
 

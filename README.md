@@ -22,7 +22,7 @@
 
 
 <br>
-<h2>Redes Sociais</h2>
+<h2>Social Media</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cortezia-32a875301/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.gus.cortezia@gmail.com)
